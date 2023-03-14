@@ -10,7 +10,7 @@ Upcoming 2023 Eurovision Song Contest inspired me to **gather relevant data** an
 
 These and many more quations can be answered based on my interactive dashboard. On the last page you can find some **facts and my conclusions** (some answers to above quations - spoiler 😉) that I came to while using this dashboard.
 
-During process of designing and building this dashboard I faced and tackles **some challenges and learned new features of Power BI** (and have a lot of fun as well 😊). 
+During process of designing and building this dashboard I tackled **some challenges and learned new features of Power BI** (and have a lot of fun as well 😊). 
 
 **Technologies used**:
 * Power BI Desktop
