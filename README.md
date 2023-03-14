@@ -1,18 +1,18 @@
 **Dashboard and Insights - Eurovision 1975-2019**
 
-Upcoming 2023 Eurovision Song Contest inspired me to gather relevant data and build a dashboard that answers following quations: 
-* Who has won the most number of times?
-* Which song and artist are the top of all the times?
-* How did introducing free choice in terms of language of perfomnace increased english share, when it happeded and how does the trend look now?
-* Does songs in english tend to win or just the opposite? 
-* Do jury and viewers always agree?
-* Does geografical and cultural closeness influence the voting? If so, who is more biased - jury or viewers? 
+Upcoming 2023 Eurovision Song Contest inspired me to **gather relevant data** and **build a dashboard** that answers following quations: 
+* Who has won **the most number of times**?
+* Which **song and artist are the top** of all the times?
+* How did introducing **free choice in terms of language** of performance increased **English share**, when it happened and how does the **trend look** now?
+* Does songs in **english tend to win** or just the opposite? 
+* Do **jury and viewers always agree**?
+* Does **geografical and cultural closeness** influence the voting? If so, **who is more biased - jury or viewers**? 
 
-These and many more quations can be answered based on my interactive dashboard. On the last page you can find some facts and my conclusions (some answers to above quations - spoiler 😉) that I came to while using this dashboard.
+These and many more quations can be answered based on my interactive dashboard. On the last page you can find some **facts and my conclusions** (some answers to above quations - spoiler 😉) that I came to while using this dashboard.
 
-During process of designing and building this dashboard I faced and tackles some challenges and learned new features of Power BI (and have a lot of fun as well 😊). 
+During process of designing and building this dashboard I faced and tackles **some challenges and learned new features of Power BI** (and have a lot of fun as well 😊). 
 
-Technologies used:
+**Technologies used**:
 * Power BI Desktop
 * Power Query
 
