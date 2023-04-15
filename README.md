@@ -28,7 +28,8 @@ During process of designing and building this dashboard I tackled **some challen
 ![image](https://user-images.githubusercontent.com/102869680/224977344-df49ef1a-1c88-4098-8419-def23e1ff2d6.png)
 ![obraz](https://user-images.githubusercontent.com/102869680/232253786-836c75f4-d394-4841-80c2-0b7c58837a5a.png)
 
-Some measures:
+**Some measures**:
+<br />
 <br />
 ![obraz](https://user-images.githubusercontent.com/102869680/232253844-4d851642-8678-451e-98f8-c145cb9aab9a.png)
 ![obraz](https://user-images.githubusercontent.com/102869680/232253855-74a32229-6076-4f45-b6e9-bd29b8e33b59.png)
