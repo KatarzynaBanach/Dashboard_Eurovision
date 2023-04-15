@@ -17,9 +17,9 @@ During process of designing and building this dashboard I tackled **some challen
 * Power Query
 
 **Challenges I encountered**:
-* Differences in names of countries between tables - I found out about it because it resulted in Blank() fields -> Solution: Standardising the names.
-* Two columns in fact table was logically related to one filed in dimension table -> Solution:  Inactive relationsships and function USERELATIONSHIP().
-* Problem with calculation sum of points received and given for one country -> Solution: Creating new table (using function SUMMARIZE) and and creating new key out of countries and year.
+* Differences in names of countries between tables - I found out about it because it resulted in Blank() fields -> *Solution:* Standardising the names.
+* Two columns in fact table was logically related to one filed in dimension table -> *Solution:*  Inactive relationsships and function USERELATIONSHIP().
+* Problem with calculation sum of points received and given for one country -> *Solution:* Creating new table (using function SUMMARIZE) and and creating new key out of countries and year.
 
 
 ![image](https://user-images.githubusercontent.com/102869680/224977119-d7c8a5a1-7d5c-461f-85f5-97dda7b7ed61.png)
